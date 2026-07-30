@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I,m Currently Working On FullStack Developer With MERN.<br>😎 I Have 1-Year Experiance With Both FrontEnd , BackEnd and Hosting VPN Server.<br>🌱 I am Currently Learning NextJS.<br><br><br>
+🔭 I,m Currently Working On FullStack Developer With MERN.<br>😎 I Have 2.7-Year Experiance With Both FrontEnd , BackEnd and Hosting VPN Server.<br>🌱 I am Currently Learning NextJS.<br><br><br>
 
 
 ## 🌐 Socials:
